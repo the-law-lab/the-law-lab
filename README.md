@@ -1,4 +1,4 @@
-Visit **[the-law-lab.github.io/the-law-lab](https://the-law-lab.github.io/the-law-lab)** 🚀
+Visit **[the-law-lab.github.io](https://the-law-lab.github.io)** 🚀
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17228741.svg)](https://doi.org/10.5281/zenodo.17228741)
 
