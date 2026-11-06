@@ -6,6 +6,10 @@ header: images/background.jpg
 footer: images/background.jpg
 proofer: false
 
+# while true, asks search engines (Google etc.) not to list the site.
+# set to false when the site is ready to launch.
+hide-from-search: true
+
 # site social media and other links
 links:
   # TODO: add the lab's links, e.g.

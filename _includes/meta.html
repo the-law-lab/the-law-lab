@@ -52,6 +52,9 @@
 <link rel="icon" href="{{ icon }}">
 
 <meta name="title" content="{{ title }}">
+{% if site.hide-from-search %}
+<meta name="robots" content="noindex, nofollow">
+{% endif %}
 <meta name="description" content="{{ description }}">
 
 <meta property="og:title" content="{{ title }}">
