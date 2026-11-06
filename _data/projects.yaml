@@ -1,0 +1,15 @@
+# One entry per project. Only title is required; the rest are optional.
+#
+# - title: Project name
+#   subtitle: a short subtitle
+#   image: images/project-photo.jpg
+#   link: https://example.com
+#   description: A sentence or two about the project.
+
+- title: Digitizing Martindale-Hubbell Directories
+  image: images/martindale-hubbell.jpg
+  description: We are currently digitizing Martindale-Hubbell directories. These directories contain information about lawyers and law firms in the United States, including their names, addresses, and areas of practice.
+
+- title: The Revolving Door of Justice? Employment and Sentencing Behavior Among State Trial Court Judges
+  image: images/penn-courts.jpg
+  description: We describe state trial court judges' employment pipelines in and out of office in Pennsylvania, 2000-2025. We link sentencing data to ask whether shifts in behavior after failing to seek another term correspond to a judge's next employer. Contact us for more information.

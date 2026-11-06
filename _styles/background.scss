@@ -1,0 +1,28 @@
+---
+---
+
+.background {
+  position: relative;
+  background: var(--background);
+  color: var(--text);
+  z-index: 1;
+}
+
+.background:before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background-image: var(--image);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: 50% 50%;
+  opacity: 0.25;
+  z-index: -1;
+}
+
+// show the header and footer image at full strength
+// (the blue gradient is already dark enough for white text)
+header.background:before,
+footer.background:before {
+  opacity: 1;
+}
